@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "981408961624",
+    "project_id": "mybookstash-690b7",
+    "storage_bucket": "mybookstash-690b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981408961624:android:5349f899433ac82329a62d",
+        "android_client_info": {
+          "package_name": "com.example.book_stash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC98QXNezE8A7YC2wLdndgIkhf1r4ApFmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981408961624:android:238540070a933c5529a62d",
+        "android_client_info": {
+          "package_name": "com.example.books_stashh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC98QXNezE8A7YC2wLdndgIkhf1r4ApFmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
