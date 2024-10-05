@@ -3,18 +3,18 @@
 
 A new Flutter project.
 
-## Getting Started
+# Book Stash
 
-This project is a starting point for a Flutter application.
+Book Stash is a Flutter-based mobile application designed to help users manage and track their personal book collections. The app allows users to add, update , anand delete books in their virtual library.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **User Authentication**: Register and log in securely to access your personal book stash.
+- **Books details**: Add books to your collection with book details like title, author and price.
+- **FireStore database**
+- **Firebase Messaging**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
+
+
 # BookStash
 >>>>>>> 8d826e59fd1c8c57206b2249e5d90b4e805d7ca9
